@@ -32,6 +32,7 @@ git commit -m"proyecto"
 git push
 ```
 <img src="conejito/gbjjjkujjkjhkjk.png" alt="Bunny suavecito" width="200"/>
+
 ```bash
 enlace de la pagina web al juego:
 https://jeaane.github.io/Sudoku/
