@@ -1,6 +1,6 @@
-#   Papelera Inteligente 
+#   Juego Interactivo (SUDOKU)
 
-Una práctica que combina tecnología y diseño emocional para crear una papelera inteligente 🗑️
+Un juego que combina tecnología y diseño para crear una experiencia unica. 
 
 ##  🐾 Prerrequisitos 🐾<img src="conejito/gbjjjkujjkjhkjk.png" alt="Bunny suavecito" width="200"/>
 
